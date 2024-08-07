@@ -1,0 +1,1 @@
+# Girilen sayının fibonocci serisini oluşturur.
